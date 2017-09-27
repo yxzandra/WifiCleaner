@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">WifiCleaner</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuraciones</string>
+    <string name="titulo_principal">Redes Wifi</string>
+
+    <string name="questionConfWifi">¿Quieres borrar tus redes almacenadas?</string>
+    <string name="questionConfCache">¿Quieres limpiar cache?</string>
+    <string name="aceptar">Ok</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="borrado">Las redes han sido eliminadas Exitosamente</string>
+    <string name="app_intro">Modo de Empleo</string>
+    <string name="nombre_de_la_red">Nombre de la red</string>
+    <string name="tipo_de_red">Tipo de red</string>
+    <string name="clean_cache">Limpiar Cache</string>
+    <string name="clean_wif">Limpiar Redes Wifi</string>
+    <string name="estado">Estado</string>
+    <string name="intensidad">Intensidad</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="frecuencia">Frecuencia</string>
+    <string name="seguridad">Seguridad</string>
+    <string name="share">Compartir</string>
+    <string name="more_apps">Más Aplicaciones</string>
+    <string name="TextWifiApagado">Su dispositivo tiene el WiFi apagado</string>
+    <string name="title1Intro">Listado de Redes Wifi</string>
+    <string name="description1Intro">Disponibles en tu dispositivo, indicando según el color</string>
+    <string name="description1Intro1">Verde Conectada</string>
+    <string name="description1Intro2">Morado al Alcance</string>
+    <string name="description1Intro3">Gris Fuera de Alcance</string>
+
+    <string name="title2Intro">Limpieza intensiva de tus Redes Wifi</string>
+    <string name="description2Intro">Limpia de manera fácil tu Cache y Redes Wifi, a traves de
+        nuestro menú de botones, eliminando la información necesaria y problemas molestos</string>
+    <string name="title3Intro">Menú de Opciones</string>
+    <string name="description3Intro">Accede a nuestro menú de opciones, compártelas con tus amigos
+        y disfruta de nuestras Aplicaciones</string>
+    <string name="shareText">Hey! Prueba esta aplicación, limpia tus redes wifi https://play.google.com/store/apps/details?id=</string>
+    <string name="toast_clean">Limpieza exitosa</string>
+
+        <string name="description_cache">Si tu version de Android es 6 o superior, por motivos de
+        permisos, se redireccionará a los ajustes de almacenamiento para limpiar su cache, de lo
+        contrario se eliminará automáticamente</string>
+
+    <string name="description_wifi">Si tu version de Android es 6 o superior, por motivos de
+        permisos, se redireccionará a los ajustes de redes para limpiar sus redes almacenadas,
+        de lo contrario se eliminarán automáticamente</string>
+    <string name="wificonectado">Red Conectada</string>
+    <string name="passwordinvalid">Contraseña Invalida</string>
+    <string name="authenticating">Autentificando Red</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="mostrar_contrase_a">Mostrar Contraseña</string>
+    <string name="conectar">Conectar</string>
+
+</resources>
